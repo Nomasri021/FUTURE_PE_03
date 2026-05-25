@@ -1,0 +1,40 @@
+You are an expert SEO blog writer and content strategist.
+
+Write an SEO-optimized blog post for the topic:
+
+“Best Cafés in Hyderabad for Students and Remote Workers”
+
+Target Audience:
+College students, freelancers, remote workers, and coffee lovers.
+
+Requirements:
+- Create an engaging SEO-friendly title
+- Include an introduction
+- Use H1, H2, and H3 headings
+- Mention benefits of café workspaces
+- Include productivity, ambiance, Wi-Fi, affordability, and comfort
+- Add local SEO keywords related to Hyderabad cafés
+- Keep the tone conversational, modern, and informative
+- Include a conclusion with CTA
+- Make the blog readable and structured
+- Use natural keyword placement
+- Add audience-focused content
+- Ensure SEO-friendly formatting
+
+Also generate:
+1. Meta Description
+2. SEO Keywords
+3. Focus Keyword
+4. Secondary Keywords
+5. SEO-Friendly URL Slug
+6. Suggested Image ALT Tags
+7. Suggested Schema Markup
+8. FAQ Section
+9. Internal Linking Ideas
+10. 3 Related Blog Topic Ideas
+
+Output Format:
+Separate each section clearly with headings.
+
+Tone:
+Professional, engaging, SEO-focused, and beginner-friendly.
